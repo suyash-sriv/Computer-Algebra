@@ -1,5 +1,5 @@
 # Computer-Algebra
-Implementations of some important computer algebra algorithms
+Implementations of some important computer algebra algorithms in C++ (\*.cpp) and Pari/GP (\*.gp)
 
 # Description
 * fft.cpp: Fast Fourier Transform (and Polynomial Multiplication)  
